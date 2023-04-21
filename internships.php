@@ -145,7 +145,7 @@ echo '<nav>';
 echo '<ul>';
 echo '<li><a href="https://studywithcomp.github.io/Home/">Home</a></li>';
 echo '<li><a href="https://studywithcomp.github.io/Home/courses.html">Courses</a></li>';
-echo '<li><a href="https://studywithcomp.github.io/Home/internships.html">Internships</a></li>';
+echo '<li><a href="https://studywithcomp.github.io/Home/internships.php">Internships</a></li>';
 echo '<li><a href="https://studywithcomp.github.io/Home/contact.html">Contact Us</a></li>';
 echo '</ul>';
 echo '</nav>';
